@@ -1,5 +1,8 @@
 .mainContent {
   display: flex;
-  background: #DCDCDC;
   flex: 1;
+  margin-left: 26%;
+  font-size: 30px;
+
+  flex-wrap: wrap;
 }
