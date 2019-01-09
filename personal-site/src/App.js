@@ -23,7 +23,38 @@ class App extends Component {
           </a>
         </header>
         */ }
+        <div className="sub-content">
+          hmhhhhhh
+          <p> ahhhh </p>
+          what do i doooooo
+          <p>Scrolling Content</p>
+            <p>Scrolling Content</p>
+            <p>Scrolling Content</p>
+            <p>Scrolling Content</p>
+            <p>Scrolling Content</p>
+            <p>Scrolling Content</p>
+            <p>Scrolling Content</p>
+            <p>Scrolling Content</p>
+            <p>Scrolling Content</p>
+            <p>Scrolling Content</p>
+            <p>Scrolling Content</p>
+            <p>Scrolling Content</p>
+            <p>Scrolling Content</p>
+            <p>Scrolling Content</p>
+            <p>Scrolling Content</p>
+            <p>Scrolling Content</p>
+            <p>Scrolling Content</p>
+            <p>Scrolling Content</p>
+            <p>Scrolling Content</p>
+            <p>Scrolling Content</p>
+            <p>Scrolling Content</p>
+            <p>Scrolling Content</p>
+            <p>Scrolling Content</p>
+            <p>Scrolling Content</p>
+            <p>Scrolling Content</p>
+        </div>
         <Sidebar />
+
       </div>
     );
   }

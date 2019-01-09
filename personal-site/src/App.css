@@ -1,7 +1,14 @@
+html, body {
+  overflow: hidden;
+}
+
 .App {
-  position: relative;
   width: 100%;
   height: 100%;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  overflow: hidden;
 }
 
 .App-logo {
@@ -33,3 +40,12 @@
   }
 }
 
+.sub-content {
+  display: flex;
+  order: 4;
+  background: green;
+  flex-direction: column;
+  position: absolute;
+  left: 20%;
+  overflow: auto;
+}
