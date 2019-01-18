@@ -9,13 +9,12 @@ export class Sidebar extends Component {
 		return (
 
 			<div className={styles.sidebarContainer}>
-				
+			
 				<div className={styles.sidebarItem}>
-					ahhhh
-					ohhh
-					oh
-					yyyyyyyyy
-					qqqqqqqqqqq
+					Lorem
+					Ipsum
+					Lorem
+					Ipsum
 				</div>
 				
 			</div>
